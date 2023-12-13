@@ -1,1 +1,11 @@
 /* add your styles here */
+
+.body{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+img{
+    width: 100%;
+}
